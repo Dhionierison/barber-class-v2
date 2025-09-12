@@ -5,7 +5,7 @@ export function SpeakersSection() {
   const speakers = [
     {
       id: 1,
-      name: "João Silva",
+      name: "Dario Matias",
       role: "Palestrante Principal & Mestre Barbeiro",
       image: "/images/instructor-2.png",
       description: "15 anos de experiência, referência nacional em técnicas tradicionais e inovação",
@@ -14,7 +14,7 @@ export function SpeakersSection() {
     },
     {
       id: 2,
-      name: "Carlos Santos",
+      name: "Lucas Garcia",
       role: "Empreendedor e Mentor",
       image: "/images/instructor-3.png",
       description: "Fundador de 3 barbearias de sucesso, especialista em gestão",
