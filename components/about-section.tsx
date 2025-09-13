@@ -74,11 +74,11 @@ export function AboutSection() {
                 </CardContent>
               </Card>
 
-              <Card className="group hover-lift border-0 bg-gradient-to-br from-green-400/10 to-green-400/5 backdrop-blur-sm">
+              <Card className="group hover-lift border-0 bg-gradient-to-br from-red-100/10 to-green-400/5 backdrop-blur-sm">
                 <CardContent className="p-6">
                   <div className="flex items-center mb-4">
-                    <div className="p-2 bg-green-400/20 rounded-lg mr-3 group-hover:scale-110 transition-transform">
-                      <Users className="w-5 h-5 text-green-400" />
+                    <div className="p-2 bg-orange-400/20 rounded-lg mr-3 group-hover:scale-110 transition-transform">
+                      <Users className="w-5 h-5 text-orange-400" />
                     </div>
                     <h3 className="font-semibold text-lg">Networking Poderoso</h3>
                   </div>
@@ -88,11 +88,11 @@ export function AboutSection() {
                 </CardContent>
               </Card>
 
-              <Card className="group hover-lift border-0 bg-gradient-to-br from-purple-400/10 to-purple-400/5 backdrop-blur-sm">
+              <Card className="group hover-lift border-0 bg-gradient-to-br from-orange-100/10 to-purple-400/5 backdrop-blur-sm">
                 <CardContent className="p-6">
                   <div className="flex items-center mb-4">
-                    <div className="p-2 bg-purple-400/20 rounded-lg mr-3 group-hover:scale-110 transition-transform">
-                      <Award className="w-5 h-5 text-purple-400" />
+                    <div className="p-2 bg-orange-400/20 rounded-lg mr-3 group-hover:scale-110 transition-transform">
+                      <Award className="w-5 h-5 text-orange-100" />
                     </div>
                     <h3 className="font-semibold text-lg">Certificação Reconhecida</h3>
                   </div>
@@ -145,7 +145,7 @@ export function AboutSection() {
               </div>
 
               <div
-                className="absolute top-4 left-4 bg-gradient-to-r from-green-400 to-emerald-400 text-white p-3 rounded-xl shadow-2xl group-hover:scale-105 transition-transform duration-300 max-w-[120px]"
+                className="absolute top-4 left-4 bg-gradient-to-r from-primary to-orange-400 text-white p-3 rounded-xl shadow-2xl group-hover:scale-105 transition-transform duration-300 max-w-[120px]"
                 style={{ animationDelay: "0.2s" }}
               >
                 <div className="flex items-center space-x-2 mb-1">
