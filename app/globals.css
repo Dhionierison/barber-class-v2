@@ -397,4 +397,8 @@
       transform: translateY(-5px) rotate(240deg);
     }
   }
+
+  html {
+    scroll-padding-top: 80px; /* Altere este valor para a altura do seu Header */
+}
 }

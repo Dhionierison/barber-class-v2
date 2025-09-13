@@ -46,19 +46,19 @@ export default function Home() {
       <section id="inicio" className="scroll-animate">
         <HeroSection />
       </section>
-      <section id="sobre" className="scroll-animate">
+      <section id="sobre" className="scroll-animate min-h-[50vh] py-20">
         <AboutSection />
       </section>
-      <section id="palestrantes" className="scroll-animate">
+      <section id="palestrantes" className="scroll-animate min-h-[50vh] py-20">
         <SpeakersSection />
       </section>
-      <section id="historias-de-sucesso" className="scroll-animate">
+      <section id="historias-de-sucesso" className="scroll-animate min-h-[50vh] py-20">
         <SuccessStoriesSection />
       </section>
-      <section id="depoimentos" className="scroll-animate">
+      <section id="depoimentos" className="scroll-animate min-h-[50vh] py-20">
         <TestimonialsSection />
       </section>
-      <section id="inscricao" className="scroll-animate">
+      <section id="inscricao" className="scroll-animate min-h-[50vh] py-20">
         <RegistrationSection />
       </section>
       <Footer />
